@@ -48,17 +48,23 @@ The dashboard is relevant to businesses with comparable product and market dimen
 
 ## Data and Evidence
 
-The case originates from GoIT coursework.
+The analysis uses the GoIT coursework dataset, now included in this project.
 
-The findings presented here are based on the visible Tableau aggregates. The CSV files in `data/` are manually transcribed chart summaries, not the original transaction dataset.
+[View the source CSV →](data/saas_revenue.csv)
 
-The displayed monthly and product totals reconcile to **1,332,835 revenue units**.
+The source contains 123,195 rows, four products, and three markets. Recorded payment dates range from June 1, 2022 to May 30, 2023.
 
-The corrected charts display **June 2022–May 2023**. This is a reporting period spanning two calendar years, not a January–December annual total.
+The reporting period spans two calendar years; it is not a January–December annual total.
 
-Currency has not been verified, so values are presented without a currency symbol.
+Source-level checks confirm that monthly, regional, and product revenue totals reconcile to **1,332,835 revenue units**. All payment dates parsed successfully, no null values were found, and all revenue amounts were positive.
 
-Transaction grain, duplicates, refunds, missing records, and completeness of individual months still require verification against the source data. The dashboard does not establish recurring revenue, churn, profit, or marketing attribution.
+The chart-summary CSVs are manually transcribed supporting aggregates, not transaction-level source files.
+
+The source contains 49 exact duplicate rows beyond their first occurrences. They were retained because no transaction identifier is available to distinguish accidental duplication from legitimate repeated payments.
+
+Currency, transaction grain, and reporting completeness still require confirmation. The latest payment date does not by itself establish whether May is complete.
+
+Revenue alone does not establish recurring revenue, churn, profitability, or marketing effectiveness.
 
 ## Key Findings
 
