@@ -41,6 +41,8 @@ a **67.8% month-over-month decline**.
 APAC and EMEA accounted for **85.6% of the total decrease**.
 USA also declined, but less sharply.
 
+[Explore the June Revenue Decline dashboard →](https://public.tableau.com/authoring/1_RevenuePerformanceAnalysis/JuneRevenueDecline#1)
+
 **Recommended next step:** validate data completeness, then
 investigate billing activity and paying-customer trends in
 APAC and EMEA. The comparison identifies where the decline
