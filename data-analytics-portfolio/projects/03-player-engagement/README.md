@@ -59,6 +59,38 @@ A high average in a small group may reflect only a few players. Q1 contains Marc
 
 The view helps identify segments for further analysis; it does not establish that age causes engagement differences or justify targeting decisions on its own.
 
+## Business Applications and Recommendations
+
+### 1. Monitor participation counts alongside percentages
+
+Battle Pass participation fell from 76.9% in April to 50.0% in December, while the number of participating players increased from 40 to 75.
+
+A lower participation rate does not necessarily mean fewer participants. Product teams should track both measures to distinguish changes in audience size from changes in feature engagement.
+
+**Next step:** compare participation by game and player cohort. Confirm which games offer Battle Pass activities before interpreting differences.
+
+### 2. Investigate playtime changes within comparable groups
+
+Average monthly playtime per player peaked at 78:35 in June and reached 53:02 in December.
+
+This comparison describes the monthly player population; it does not establish that individual players became less engaged.
+
+**Next step:** compare returning and newly active players, then examine activity types and game-level patterns. Cohort analysis is needed to assess changes among the same players.
+
+### 3. Use the age heatmap to guide further analysis
+
+The heatmap highlights differences in average playtime across age groups and quarters.
+
+**Next step:** review the number of players behind each cell before prioritizing a segment. Small groups can produce unstable averages. Q1 contains March only and should not be treated as a full quarter.
+
+### 4. Connect engagement patterns to additional evidence
+
+Product and game operations teams can use the dashboard to identify segments and periods worth investigating.
+
+Marketing teams can use these observations to frame audience research and campaign hypotheses. Budget decisions require acquisition costs, campaign attribution and conversion data.
+
+Battle Pass activity indicates participation, not a purchase. The dashboard does not measure revenue, retention or campaign effectiveness.
+
 ## Intended Users
 
 | User | Analytical purpose |
