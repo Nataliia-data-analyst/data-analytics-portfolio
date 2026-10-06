@@ -2,16 +2,22 @@
 
 ## Evidence and Scope
 
-This case study uses visible Tableau aggregates and manually transcribed chart summaries.
+This case study uses the GoIT coursework dataset, visible Tableau aggregates, and manually transcribed chart summaries.
 
-The corrected dashboard displays June 2022–May 2023. Year labels establish the chronology shown in the charts; complete source coverage and full-month reporting still require transaction-level verification.
+[View the source CSV →](../data/saas_revenue.csv)
 
-Values are reported in revenue units because the currency has not been verified.
+The source contains 123,195 rows across four products and three markets. Recorded payment dates range from June 1, 2022 to May 30, 2023.
+
+The corrected dashboard displays June 2022–May 2023 in chronological order. This period spans two calendar years.
+
+Recorded date boundaries have been verified. Complete source coverage and full-month reporting still require confirmation.
+
+Values are reported in revenue units because currency has not been verified.
 
 ## Metric Definitions
 
-- **Revenue:** sum of the displayed `revenue_amount` aggregates. Whether this represents cash collections, recognized revenue, or another measure requires confirmation.
-- **Period revenue:** sum of monthly revenue across the displayed June 2022–May 2023 period.
+- **Revenue:** sum of `revenue_amount` within the reporting scope. Whether this represents cash collections, recognized revenue, or another measure requires confirmation.
+- **Period revenue:** sum of revenue across June 2022–May 2023.
 - **Product share:** product revenue divided by total revenue over the same period.
 - **Month-over-month change:** (current month revenue − previous month revenue) / previous month revenue. Only consecutive year-month periods are compared. The percentage is undefined when the previous value is zero.
 - **Change from the March peak:** (May 2023 revenue − March 2023 revenue) / March 2023 revenue. This is a two-month endpoint comparison, not a month-over-month change.
@@ -38,34 +44,54 @@ Regional changes from March to May reconcile to the total decrease:
 
 ## Checks Completed
 
+### Timeline and Interpretation
+
 - Adding the year revealed that June belonged to 2022 and May to 2023.
 - The charts were rebuilt to preserve year-month chronology.
 - The earlier May-to-June decline interpretation and associated contribution figures were withdrawn.
-- All 12 sets of transcribed regional values reconcile to the displayed monthly totals.
-- Monthly totals reconcile to the four product totals: **1,332,835**.
-- Percentages use the displayed integer aggregates before percentage rounding and are reported to one decimal place.
 
-These checks establish consistency among the displayed aggregates. They do not establish transaction-level accuracy or completeness.
+### Source Data and Reconciliation
 
-## Checks Requiring the Original Dataset
+- All source payment dates parsed successfully.
+- No null values were found in the six source fields.
+- All revenue amounts were positive.
+- All 12 sets of regional summary values reconcile to the corresponding monthly totals.
+- Source monthly, regional, and product totals reconcile to **1,332,835 revenue units** and agree with the chart summaries.
+- Percentages are calculated before percentage rounding and reported to one decimal place.
 
-- Exact date coverage and completeness of each month.
-- Currency, conversion rules, and revenue definition.
-- Transaction grain and duplicate records.
-- Null fields, refunds, and nonpositive payments.
+These checks establish agreement between the supplied CSV and the reported aggregates. They do not independently establish that the source contains every expected payment.
+
+### Duplicate Rows
+
+The source contains **49 exact duplicate rows beyond their first occurrences**.
+
+They were retained because no transaction identifier is available to distinguish accidental duplication from legitimate repeated payments.
+
+## Remaining Validation Questions
+
+- Completeness of each reporting month, particularly May 2023.
+- Currency, conversion rules, and the accounting definition of revenue.
+- Transaction grain and the meaning of repeated rows.
+- Whether refunds are excluded, stored separately, or represented through another process.
 - Missing records or reporting periods.
-- Changes in product and market mapping.
-- Reconciliation of transcribed summaries to source records and workbook exports.
+- Consistency of user identifiers and product / market mapping.
+- Agreement between the supplied CSV and the exact data version used in the published workbook.
+
+The latest recorded payment is May 30, 2023. The absence of May 31 does not by itself demonstrate missing data or confirm full-month coverage.
 
 ## Customer and Subscription Metrics
 
-Unique paying customers require a documented payment eligibility rule and a distinct user count over the selected period.
+A paying customer is defined as a distinct user with at least one positive payment within the selected reporting scope.
 
 Revenue divided by paying users is **ARPPU**, or revenue per paying customer. It is not ARPU across all users. Monthly unique-customer counts must not be summed to obtain unique customers across the full period.
 
+Customer metrics are explored in the companion case study:
+
+[Revenue Drivers & Paying Customer Analysis →](../../02-revenue-drivers/README.md)
+
 Payment revenue alone does not establish **MRR**. Recurring subscription status and normalization rules are required.
 
-This case remains separate from the subscription Revenue Metrics capstone until the relevant source data and metric definitions are confirmed.
+This case remains separate from the subscription Revenue Metrics capstone, which requires its own source data and metric definitions.
 
 ## Interpretation Limits
 
@@ -78,8 +104,8 @@ It does not establish:
 - Profitability, CAC, ROAS, or LTV.
 - Retention or churn.
 - Customer-segment contributions.
-- Product contributions to the March–May decrease.
+- Product contributions to the March–May decrease within this case study.
 
-Product totals describe the full reporting period and cannot explain monthly changes without a monthly product breakdown.
+Full-period product totals cannot explain monthly changes without a monthly product breakdown.
 
 March–May comparisons remain provisional until reporting completeness is confirmed. The displayed period alone is insufficient to establish seasonality.
