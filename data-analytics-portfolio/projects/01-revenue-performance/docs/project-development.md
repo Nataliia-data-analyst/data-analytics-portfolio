@@ -34,6 +34,14 @@ I withdrew the earlier June decline interpretation and the regional contribution
 
 *Validation: displaying the year exposed the misleading comparison.*
 
+![Intermediate validation view showing June 2022 and May 2023](../assets/june-revenue-decline-chart.png)
+
+*Intermediate validation stage — the year labels exposed the issue, while the title and annotations still reflected the earlier interpretation.*
+
+The left chart appeared to show a May-to-June decline. Adding the year on the right revealed that the comparison actually involved **June 2022 and May 2023**.
+
+This invalidated the month-over-month interpretation. The earlier decline claim, the 85.6% regional contribution figure, and the associated recommendations were withdrawn. The next step was to rebuild the full timeline and reassess the findings.
+
 ## 3. Solution: Rebuilding the Timeline
 
 I rebuilt the monthly trend using a continuous month-and-year date axis.
