@@ -121,6 +121,18 @@ Players without recorded activity are not represented in active-player counts.
 
 Tableau · Calculated fields · Distinct user counts · Duration formatting · Heatmaps · Interactive dashboards
 
-## Status
+## Methodology and Development
 
-In development: source data supplied; metric validation and dashboard review are next.
+[Metric definitions and limitations →](docs/methodology.md)
+
+Calculation rules for player counts, Battle Pass participation and average playtime, with validation examples and interpretation limits.
+
+[Dashboard development →](docs/project-development.md)
+
+A walkthrough of the visualization challenges, changes made and how they improved readability and analytical interpretation.
+
+## Project Status
+
+The interactive dashboard is published on Tableau Public. The source CSV, dashboard screenshot, methodology and development notes are included in this case study.
+
+Monthly metrics were checked against source-based calculations. Reporting completeness, activity-record meaning and Battle Pass eligibility still require confirmation.
