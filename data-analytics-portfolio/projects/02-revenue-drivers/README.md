@@ -18,6 +18,12 @@ The dashboard combines monthly revenue, distinct paying-customer counts, average
 
 Market, product, and date filters allow users to explore each view within the same selected scope.
 
+## Interactive Dashboard
+
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/authoring/2_RevenueDriversandPayingCustomerAnalysis/RevenueDriversPayingCustomerAnalysis#1)
+
+Use the market, product, and payment-date filters to explore revenue and paying-customer metrics. Revenue shares are calculated within the selected markets.
+
 ## Tools
 
 Tableau · Calculated fields · Table calculations · Interactive dashboards · Data validation
