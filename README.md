@@ -9,6 +9,7 @@ This portfolio brings together my GoIT Data Analytics homework and final capston
 | Project | Focus | Tools |
 |---|---|---|
 | [Revenue Performance Analysis](data-analytics-portfolio/projects/01-revenue-performance/README.md) | Revenue trends, product contribution, regional performance, and date validation | Tableau |
+| [Revenue Drivers & Paying Customer Analysis](data-analytics-portfolio/projects/02-revenue-drivers/README.md) | Paying users, ARPPU, product–market revenue, and regional revenue mix | Tableau |
 
 ## Featured Project: Revenue Performance Analysis
 
