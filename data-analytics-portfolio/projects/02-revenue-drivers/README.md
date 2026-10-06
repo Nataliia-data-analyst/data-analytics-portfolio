@@ -20,10 +20,9 @@ Market, product, and date filters allow users to explore each view within the sa
 
 ## Interactive Dashboard
 
-[Explore the dashboard on Tableau Public →](https://public.tableau.com/views/2_RevenueDriversandPayingCustomerAnalysis/RevenueDriversPayingCustomerAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/app/profile/nataliia.fofanova/viz/3_PlayerEngagementBattlePassParticipation/PlayerEngagementBattlePassParticipation)
 
-Use the market, product, and payment-date filters to explore revenue and paying-customer metrics. Revenue shares are calculated within the selected markets.
-
+Filter by game, age group, device language, and activity date to explore player engagement within the selected segment.
 
 ## Key Findings
 
