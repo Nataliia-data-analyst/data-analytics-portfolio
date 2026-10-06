@@ -1,5 +1,21 @@
 # Revenue Performance Analysis
 
+**Course:** GoIT Data Analytics  
+**Module:** Tableau  
+**Project type:** Coursework expanded into a portfolio case study
+
+## From Assignment to Business Analysis
+
+The original assignment focused on three visualizations:
+monthly revenue, revenue by product, and monthly revenue by location.
+
+I extended the assignment with a business scenario, a regional
+decomposition of the May-to-June revenue decline, and recommendations
+for further investigation.
+
+The dashboard helps marketing, product, and regional teams identify
+when revenue changes and where to investigate first.
+
 ### One revenue drop. Three markets. A clearer place to start.
 
 An educational Tableau case study exploring revenue across months, products and geographic markets. The dashboard flags an unusually weak June; a regional comparison shows where the observed decline is concentrated.
