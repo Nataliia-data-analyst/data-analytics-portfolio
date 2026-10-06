@@ -26,7 +26,7 @@ the markets contributing most to the change.
 - APAC and EMEA accounted for 85.6% of that decrease.
 - Main App and Customer Success generated 60.3% of total revenue.
 
-[Explore the case study →](projects/01-revenue-performance/README.md)
+[Explore the case study →](data-analytics-portfolio/projects/01-revenue-performance/README.md)
 
 ## How I Approach Each Project
 
