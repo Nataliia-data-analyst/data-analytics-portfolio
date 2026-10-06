@@ -48,6 +48,23 @@ investigate billing activity and paying-customer trends in
 APAC and EMEA. The comparison identifies where the decline
 occurred; its causes require further analysis.
 
+## Data Validation: Checking the Timeline
+
+A date validation check revealed that the original chart used
+month names without preserving the year.
+
+Adding YEAR(Payment Date) showed that June belonged to 2022,
+while May belonged to 2023. The apparent May-to-June decline
+therefore did not represent a month-over-month change.
+
+The previously reported decline and regional contribution
+figures were withdrawn from the interpretation.
+
+The timeline is being rebuilt using month and year.
+Updated findings will be based on the corrected chronology.
+
+
+
 ## Business brief
 
 Imagine a software business with four products serving APAC, EMEA and USA. Marketing and product managers need a shared overview of revenue and a way to prioritize investigations when performance changes. This is a proposed application of the coursework dataset, not a claim about a real company or client.
