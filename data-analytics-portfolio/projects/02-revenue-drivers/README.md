@@ -108,6 +108,16 @@ Use both metrics alongside total revenue. When revenue changes, check whether th
 See [Methodology and Data Validation](docs/methodology.md) for metric definitions, validation results, and unresolved data questions.
 See [Project Development](docs/project-development.md) for the visualization changes, their rationale, and the resulting improvements.
 
+## Data Source
+
+This project uses the GoIT coursework dataset shared with Revenue Performance Analysis.
+
+[View the source CSV →](../01-revenue-performance/data/saas_revenue.csv)
+
+The dataset contains 123,195 rows across four products and three markets, with recorded payment dates from June 1, 2022 to May 30, 2023.
+
+See the methodology for validation results and unresolved questions about reporting coverage and transaction definitions.
+
 ## Tools
 
 Tableau · Calculated fields · Table calculations · Interactive dashboards · Data validation
