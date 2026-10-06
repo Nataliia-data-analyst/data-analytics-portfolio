@@ -14,7 +14,7 @@ The view placed January–May 2023 before June–December 2022. This made May an
 
 The initial interpretation described a May-to-June revenue decline. That conclusion was incorrect.
 
-![Original month-only view](../assets/01-month-only-view.png)
+![Original month-only view](../assets/dashboard-original.png)
 
 *Before: calendar month order did not preserve the reporting timeline.*
 
@@ -30,7 +30,7 @@ The result showed:
 
 I withdrew the earlier June decline interpretation and the regional contribution figures associated with it.
 
-![Year and month validation](../assets/02-year-validation.png)
+![Year and month validation](../assets/june-revenue-decline.png)
 
 *Validation: displaying the year exposed the misleading comparison.*
 
@@ -44,7 +44,7 @@ The corrected period runs from **June 2022 to May 2023**.
 
 This corrected the visualization and its interpretation; it did not change the underlying revenue values.
 
-![Corrected dashboard](../assets/03-corrected-dashboard.png)
+![Corrected revenue dashboard](assets/03-corrected-dashboard.png)
 
 *After: both time-based charts preserve the correct chronology.*
 
