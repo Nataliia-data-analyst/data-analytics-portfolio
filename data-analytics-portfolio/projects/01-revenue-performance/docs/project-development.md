@@ -35,6 +35,8 @@ I withdrew the earlier June decline interpretation and the regional contribution
 *Validation: displaying the year exposed the misleading comparison.*
 
 ![Intermediate validation view showing June 2022 and May 2023](../assets/june-revenue-decline-chart.png)
+![Dashboard: Year and month validation](https://public.tableau.com/authoring/1_RevenuePerformanceAnalysis/JuneRevenueDecline-DateValidation#1)
+
 
 *Intermediate validation stage — the year labels exposed the issue, while the title and annotations still reflected the earlier interpretation.*
 
@@ -51,7 +53,6 @@ For the regional chart, I displayed year, month, and location together so that t
 The corrected period runs from **June 2022 to May 2023**.
 
 This corrected the visualization and its interpretation; it did not change the underlying revenue values.
-![Dashboard: Year and month validation](https://public.tableau.com/authoring/1_RevenuePerformanceAnalysis/JuneRevenueDecline-DateValidation#1)
 
 ![Corrected revenue dashboard](../assets/03-corrected-dashboard.png)
 
