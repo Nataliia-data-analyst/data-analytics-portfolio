@@ -20,7 +20,7 @@ Market, product, and date filters allow users to explore each view within the sa
 
 ## Interactive Dashboard
 
-[Explore the dashboard on Tableau Public →](https://public.tableau.com/authoring/2_RevenueDriversandPayingCustomerAnalysis/RevenueDriversPayingCustomerAnalysis#1)
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/views/2_RevenueDriversandPayingCustomerAnalysis/RevenueDriversPayingCustomerAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Use the market, product, and payment-date filters to explore revenue and paying-customer metrics. Revenue shares are calculated within the selected markets.
 
