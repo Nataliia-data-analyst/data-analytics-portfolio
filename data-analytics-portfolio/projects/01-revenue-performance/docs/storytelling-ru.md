@@ -1,17 +1,23 @@
-# Как рассказать о проекте
+## The Revenue Story: Growth, a Peak, and a Turning Point
 
-## Короткий рассказ для интервью
+Across June 2022–May 2023, revenue totaled **1.33 million revenue units**. The corrected timeline reveals three stages: an overall upward trend, a March peak, and two consecutive monthly declines.
 
-«Я начала с трех графиков из учебного задания, но поставила перед ними бизнес-вопрос: где команде искать объяснение резкого падения выручки? За показанный период выручка составила 1,33 миллиона. Однако в июне она упала на 67,8% относительно мая. Разбивка по рынкам показала, что APAC и EMEA объясняют 85,6% этого снижения в арифметическом смысле. Поэтому я предложила сначала проверить полноту данных и платежи, затем исследовать эти рынки через клиентов, продукты и маркетинговую воронку. После июня выручка росла до ноября, но мартовский максимум не был восстановлен, а в декабре произошло новое снижение. Этот dashboard помогает выбрать направление проверки; причины падения и эффективность рекламы требуют дополнительных данных».
+Revenue reached **162,260 in March 2023**, then fell to **136,945 in May — 15.6% below the peak**. The regional view brings the next investigation into focus: APAC recorded the largest absolute decrease between March and May, followed by USA, while EMEA increased slightly.
 
-## Что это дает маркетингу
+The product chart adds context. Main App and Customer Success together generated **60.3% of period revenue**, but these totals do not reveal which product contributed to the recent decline.
 
-Линейный график сигнализирует о моменте изменения. Продуктовый график показывает вклад продуктов, но не окупаемость рекламы. Региональный график помогает определить, отчеты каких команд проверять первыми. После проверки данных маркетинг сопоставляет расходы, трафик и конверсию с выручкой и только тогда выбирает действие.
+An important validation step changed this story. The original month-only chart placed May 2023 beside June 2022, creating the appearance of a sharp monthly drop. Preserving month and year corrected the sequence and shifted attention to the actual declines in April and May 2023.
 
-## Логика портфолио
+The dashboard turns a broad performance concern into a focused investigation: verify reporting completeness, examine regional and product changes, and test possible explanations against customer, billing, and acquisition data.
 
-Один репозиторий `data-analytics-portfolio`, отдельная папка для каждого мини-проекта и отдельная папка для диплома. Главная README — витрина; README каждого проекта — самостоятельный кейс. Витрина растет по мере готовности работ, без вымышленных проектов и навыков.
+## From Visual Signals to Marketing Decisions
 
-## Как разместить подготовленный пакет
+**The line chart shows when to investigate.** Two consecutive declines after the March peak flag a change that needs closer examination.
 
-Создай репозиторий data-analytics-portfolio на GitHub. Загрузи содержимое одноименной папки из архива: README.md должен находиться в корне репозитория. Перед публичным размещением проверь разрешение курса на публикацию скриншота и данных. Исходных платежных записей в пакете нет. Позже добавь ссылку Tableau Public, workbook и проверенный источник данных. Сейчас пакет подготовлен, но на GitHub не опубликован.
+**The regional chart shows where to begin.** APAC and USA warrant further review because both declined between March and May. EMEA provides a contrasting pattern, although its increase does not establish stronger marketing performance.
+
+**The product chart shows revenue contribution.** It identifies the largest contributors across the reporting period. Monthly product data and cost information are needed to assess the recent decline and commercial efficiency.
+
+Before changing campaigns or budgets, marketing should confirm data completeness and compare revenue with campaign spend, traffic, conversion rates, and paying-customer trends over the same period.
+
+The dashboard establishes investigation priorities. Additional evidence determines the action.
