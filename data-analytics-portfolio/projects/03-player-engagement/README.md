@@ -22,6 +22,43 @@ The analysis will combine three views:
 
 Game, activity-date, age-group, and device-language filters will support exploration of player segments.
 
+## Key Findings
+
+With all games, age groups, and device languages selected:
+
+- Monthly active players increased from 47 in March to 150 in December 2022, peaking at 155 in November.
+- Battle Pass participation peaked at 76.9% in April and reached 50.0% in December.
+- Despite the lower participation rate, Battle Pass player counts increased from 40 in April to 75 in December.
+- Average monthly playtime per active player peaked at 78 hours 35 minutes in June and ended at 53 hours 2 minutes in December.
+
+These are descriptive findings from recorded activity, not evidence of acquisition, retention, purchases, or causal effects.
+
+## The Story Behind the Dashboard
+
+### A growing audience does not guarantee broader feature participation
+
+The active-player base expanded across the recorded period. However, Battle Pass participation did not keep pace with that expansion.
+
+In April, 40 of 52 active players participated in Battle Pass activities. By December, participation had grown to 75 players, but the overall active audience had reached 150. The participation rate therefore fell from 76.9% to 50.0%.
+
+The feature reached more players in absolute terms while representing a smaller share of the audience. This makes both the player count and participation rate necessary for interpretation.
+
+### Playtime adds another dimension to engagement
+
+Average monthly playtime peaked in June at 78:35 per active player. December recorded 53:02, alongside a larger active audience than June.
+
+Audience size and average playtime describe different aspects of engagement. Their movements should be investigated by game and player segment before proposing an explanation.
+
+Monthly averages do not show whether the same players changed their behavior. Cohort analysis would be needed to distinguish changes within players from changes in audience composition.
+
+### The heatmap identifies questions, not target audiences
+
+Quarterly playtime varies across age groups, but the heatmap should be read alongside the number of players behind each cell.
+
+A high average in a small group may reflect only a few players. Q1 contains March only, so its cumulative playtime is not directly comparable with three-month quarters.
+
+The view helps identify segments for further analysis; it does not establish that age causes engagement differences or justify targeting decisions on its own.
+
 ## Intended Users
 
 | User | Analytical purpose |
