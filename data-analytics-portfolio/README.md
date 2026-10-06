@@ -2,20 +2,34 @@
 
 From business questions to evidence and decisions.
 
-This portfolio brings together selected coursework and a final capstone, developed into documented analytical case studies. Each project explains the business problem, data, methods, findings, practical applications and limitations. Educational datasets are identified explicitly; proposed business scenarios are not presented as real client engagements.
+This portfolio brings together GoIT coursework and a final capstone, developed into documented analytical case studies.
+
+Each project explains the business problem, data, methods, findings, practical applications, and limitations. Educational datasets are identified explicitly; proposed business scenarios are not presented as real client engagements.
 
 ## Projects
 
 | Project | Business question | Tools | Status |
 |---|---|---|---|
-| [Revenue Performance Analysis](projects/01-revenue-performance/README.md) | Where did revenue decline, and what should the team investigate first? | Tableau | Initial case study; workbook and source validation pending |
+| [Revenue Performance Analysis](projects/01-revenue-performance/README.md) | How did revenue change over time, and which markets should the team investigate after the March peak? | Tableau | Corrected dashboard and revised findings; source-level validation outstanding |
 
-## Portfolio structure
+## Portfolio Structure
 
-Each project lives in its own folder with a README, supporting assets, permitted data and documentation. Further coursework will be added after review; the capstone will receive a separate project folder when its scope is confirmed.
+Each project has its own folder containing a README, supporting assets, data summaries where applicable, and documentation.
 
-## What each case demonstrates
+Additional coursework and the final capstone will be added as their case studies are completed.
 
-Business framing · Data validation · Clear metrics · Visual analysis · Evidence-based recommendations · Honest limitations
+## What Each Case Demonstrates
 
-Only completed work is included in the project index. Links to live dashboards, workbooks and verified source datasets will be added when available.
+Business framing · Data validation · Clear metrics · Visual analysis · Evidence-based recommendations · Documented limitations
+
+## Featured Case: Revenue Performance Analysis
+
+The first case demonstrates how checking date context can change an analytical conclusion.
+
+Adding the year exposed an invalid May-to-June comparison. Rebuilding the timeline revealed a March 2023 peak followed by two consecutive monthly declines.
+
+The project includes the corrected dashboard, an illustrated account of the validation process, and recommendations that distinguish observed revenue changes from unverified causes.
+
+[Read the case study →](projects/01-revenue-performance/README.md)
+
+[Explore the development and validation process →](projects/01-revenue-performance/docs/project-development.md)
