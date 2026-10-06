@@ -29,6 +29,23 @@ and monthly revenue across APAC, EMEA, and USA.
 
 ![Original Tableau dashboard](assets/dashboard-original.png)
 
+## Investigating the June Revenue Decline
+
+Where should the team investigate first?
+
+Revenue fell from **136,945 in May to 44,085 in June**,
+a **67.8% month-over-month decline**.
+
+![June Revenue Decline](assets/june-revenue-decline.png)
+
+APAC and EMEA accounted for **85.6% of the total decrease**.
+USA also declined, but less sharply.
+
+**Recommended next step:** validate data completeness, then
+investigate billing activity and paying-customer trends in
+APAC and EMEA. The comparison identifies where the decline
+occurred; its causes require further analysis.
+
 ## Business brief
 
 Imagine a software business with four products serving APAC, EMEA and USA. Marketing and product managers need a shared overview of revenue and a way to prioritize investigations when performance changes. This is a proposed application of the coursework dataset, not a claim about a real company or client.
