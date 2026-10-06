@@ -12,6 +12,8 @@ Each project explains the business problem, data, methods, findings, practical a
 |---|---|---|---|
 | [Revenue Performance Analysis](projects/01-revenue-performance/README.md) | How did revenue change over time, and which markets should the team investigate after the March peak? | Tableau | Corrected dashboard and revised findings; source-level validation outstanding |
 
+| [Revenue Drivers & Paying Customer Analysis](projects/02-revenue-drivers/README.md) | How do paying-customer count, ARPPU, products, and markets shape revenue? | Tableau | Dashboard published; methodology and limitations documented |
+
 ## Portfolio Structure
 
 Each project has its own folder containing a README, supporting assets, data summaries where applicable, and documentation.
