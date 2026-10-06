@@ -106,6 +106,7 @@ Use both metrics alongside total revenue. When revenue changes, check whether th
 ## Methodology
 
 See [Methodology and Data Validation](docs/methodology.md) for metric definitions, validation results, and unresolved data questions.
+See [Project Development](docs/project-development.md) for the visualization changes, their rationale, and the resulting improvements.
 
 ## Tools
 
