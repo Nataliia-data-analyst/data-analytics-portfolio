@@ -1,4 +1,4 @@
-# GoIT Data Analytics Portfolio
+# Data Analytics Portfolio
 
 Turning coursework into business-focused analytical projects.
 
