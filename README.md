@@ -2,29 +2,29 @@
 
 Turning coursework into business-focused analytical projects.
 
-This portfolio brings together my GoIT Data Analytics homework
-and final capstone project. Each assignment is developed into
-a mini case study with a business question, clear visualizations,
-key findings, and practical recommendations.
+This portfolio brings together my GoIT Data Analytics homework and final capstone project. Each assignment is developed into a mini case study with a business question, clear visualizations, validated findings, and practical recommendations.
 
 ## Projects
 
 | Project | Focus | Tools |
-|---------|-------|-------|
-| [Revenue Performance Analysis](projects/01-revenue-performance/README.md) | Revenue trends, product contribution, and regional performance | Tableau |
+|---|---|---|
+| [Revenue Performance Analysis](data-analytics-portfolio/projects/01-revenue-performance/README.md) | Revenue trends, product contribution, regional performance, and date validation | Tableau |
 
 ## Featured Project: Revenue Performance Analysis
 
-An overview of revenue across months, products, and geographic markets.
+A revenue dashboard covering June 2022–May 2023 across four products and three geographic markets.
 
-The analysis explores a sharp June revenue decline and identifies
-the markets contributing most to the change.
+A date validation check revealed that the original month-only view created a misleading comparison between different years. Correcting the timeline changed the interpretation and the priorities for further investigation.
 
 **Key findings:**
-- Revenue totaled 1.33M across the displayed period.
-- June revenue declined by 67.8% compared with May.
-- APAC and EMEA accounted for 85.6% of that decrease.
-- Main App and Customer Success generated 60.3% of total revenue.
+
+- Revenue totaled 1.33M revenue units across the displayed period.
+- Revenue peaked at 162,260 in March 2023.
+- Two consecutive monthly declines brought May revenue to 136,945, 15.6% below the March peak.
+- APAC and USA recorded decreases between March and May, while EMEA increased slightly.
+- Main App and Customer Success generated 60.3% of period revenue.
+
+The case study documents the date validation, dashboard improvements, revised findings, and recommendations for further analysis.
 
 [Explore the case study →](data-analytics-portfolio/projects/01-revenue-performance/README.md)
 
@@ -38,12 +38,8 @@ the markets contributing most to the change.
 
 ## About the Portfolio
 
-The projects originate from GoIT coursework and are extended
-with business context, additional analysis, and storytelling.
+The projects originate from GoIT coursework and are extended with business context, additional analysis, and storytelling.
 
-The first case study currently uses aggregates transcribed from
-the original Tableau dashboard. Source-data validation and
-dashboard improvements are documented as next steps.
+The first case study uses visible Tableau aggregates and manually transcribed chart summaries. The timeline and dashboard presentation have been corrected; transaction-level validation and currency verification remain outstanding.
 
-Additional coursework and the final capstone will be added
-as each case study is completed.
+Additional coursework and the final capstone will be added as each case study is completed.
