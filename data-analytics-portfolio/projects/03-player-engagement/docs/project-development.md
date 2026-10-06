@@ -10,6 +10,12 @@ The portfolio version connects these views through a business question:
 
 The dashboard presents these measures together while keeping their definitions and limitations explicit.
 
+## Original Dashboard
+
+![Original coursework dashboard before improvements](../assets/dashboard-before.png)
+
+The original view is preserved to document the starting point. The sections below explain how chart layout, metric presentation and filter selection were refined.
+
 ## 1. Separating Counts from Percentages
 
 ### Challenge
