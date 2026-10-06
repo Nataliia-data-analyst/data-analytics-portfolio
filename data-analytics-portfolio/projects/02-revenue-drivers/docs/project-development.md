@@ -20,11 +20,17 @@ The portfolio version adds business questions, a consistent reporting timeline, 
 
 **Problem:** Separate product panels made individual product trends visible but made total monthly revenue harder to compare.
 
+![Monthly revenue before the redesign: separate panels for each product](../assets/monthly-revenue-before.png)
+
+*Before: separate product panels made total monthly revenue harder to compare.*
+
 **Change:** Products were combined into stacked monthly bars, with color identifying each product.
 
 **Why it matters:** Bar height shows total revenue, while the segments show how products contribute to it.
 
 **Result:** Users can compare monthly totals and product composition in one view. Tooltips support precise comparisons of segments without a shared baseline.
+
+[View the final dashboard layout →](../assets/dashboard-overview.png)
 
 ## 3. Reading Paying Users and ARPPU Together
 
