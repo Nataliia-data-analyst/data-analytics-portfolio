@@ -59,6 +59,50 @@ USA contributed the largest share of revenue across the full period. However, th
 
 This makes product–market analysis useful for choosing where to investigate customer needs and monetization. Revenue contribution alone does not establish profitability or justify reallocating marketing budgets.
 
+## Business Application
+
+This dashboard could support a software business operating across multiple products and geographic markets. The business scenario is illustrative; this is an educational dataset, not a real client engagement.
+
+| User | Question | Decision supported |
+|---|---|---|
+| Product manager | Is revenue changing alongside paying-customer count or ARPPU? | Prioritize product and customer-segment investigations |
+| Marketing manager | How do revenue patterns differ across markets and products? | Select segments for deeper funnel and acquisition analysis |
+| Regional lead | Which products contribute most to each market? | Focus reviews of customer activity and payment patterns |
+| Finance / analytics team | Are changes consistent with payment records and reporting coverage? | Reconcile totals and validate comparisons |
+
+## Recommendations
+
+### 1. Investigate the March-to-May revenue decline
+
+Break down the change by product and market. For each segment, compare revenue, distinct paying users, and ARPPU over consistent reporting periods.
+
+Check May reporting completeness before interpreting the decline: the latest recorded payment is May 30, 2023, which does not by itself confirm whether the month is complete.
+
+### 2. Explain the lower revenue per paying customer
+
+Examine payment frequency, payment amounts, and product mix. Where additional data is available, review pricing changes, discounts, and customer segments.
+
+A decline in ARPPU does not by itself demonstrate customer dissatisfaction or churn.
+
+### 3. Connect revenue patterns to marketing evidence
+
+Compare product–market revenue trends with acquisition spend, traffic, conversion rates, and customer acquisition sources.
+
+Validate join keys and attribution rules before calculating marketing efficiency or recommending budget changes.
+
+### 4. Monitor customer count and ARPPU together
+
+Use both metrics alongside total revenue. When revenue changes, check whether the movement comes from customer count, revenue per customer, or both.
+
+## Interpretation Limits
+
+- Revenue is reported in units because currency has not been confirmed.
+- Paying users are distinct within the selected period. Monthly counts must not be added to calculate full-period unique users.
+- ARPPU measures revenue per paying user, not revenue per all users.
+- Regional shares are recalculated among the selected markets.
+- Revenue data alone does not establish MRR, retention, churn, profitability, or advertising effectiveness.
+- Findings describe observed patterns; causal explanations require additional evidence.
+
 ## Tools
 
 Tableau · Calculated fields · Table calculations · Interactive dashboards · Data validation
