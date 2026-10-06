@@ -107,7 +107,7 @@ The project uses the GoIT coursework file `games_activity_combined (2.0).csv`.
 
 The supplied CSV contains 44,012 rows and seven fields: user ID, activity date, game activity name, total seconds, device language, older-device indicator, and age.
 
-Game names and activity types are combined in `game_activity_name`. A separate game dimension will be derived for filtering.
+Game names and activity types are combined in `game_activity_name`. A separate `Game` field was derived from the text before the colon and is used to filter all three dashboard worksheets.
 
 ## Interpretation Boundaries
 
