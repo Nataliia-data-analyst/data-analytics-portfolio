@@ -25,7 +25,7 @@ It helps marketing, product, and regional teams identify changes in revenue and 
 
 The dashboard shows monthly revenue across APAC, EMEA, and USA, total revenue by product, and the overall revenue trend.
 
-![Corrected revenue dashboard](assets/development/03-corrected-dashboard.png)
+![Corrected revenue dashboard](assets/03-corrected-dashboard.png)
 
 ## Business Brief
 
