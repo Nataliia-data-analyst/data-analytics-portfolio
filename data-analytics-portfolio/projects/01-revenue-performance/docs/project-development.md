@@ -44,7 +44,7 @@ The corrected period runs from **June 2022 to May 2023**.
 
 This corrected the visualization and its interpretation; it did not change the underlying revenue values.
 
-![Corrected revenue dashboard](assets/03-corrected-dashboard.png)
+![Corrected revenue dashboard](../assets/03-corrected-dashboard.png)
 
 *After: both time-based charts preserve the correct chronology.*
 
