@@ -20,6 +20,13 @@ when revenue changes and where to investigate first.
 
 An educational Tableau case study exploring revenue across months, products and geographic markets. The dashboard flags an unusually weak June; a regional comparison shows where the observed decline is concentrated.
 
+## Interactive Dashboard
+
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/views/1_RevenuePerformanceAnalysis/RevenuePerformanceAnalysis)
+
+The dashboard shows total monthly revenue, revenue by product,
+and monthly revenue across APAC, EMEA, and USA.
+
 ![Original Tableau dashboard](assets/dashboard-original.png)
 
 ## Business brief
