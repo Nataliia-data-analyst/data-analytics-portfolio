@@ -103,6 +103,10 @@ Use both metrics alongside total revenue. When revenue changes, check whether th
 - Revenue data alone does not establish MRR, retention, churn, profitability, or advertising effectiveness.
 - Findings describe observed patterns; causal explanations require additional evidence.
 
+## Methodology
+
+See [Methodology and Data Validation](docs/methodology.md) for metric definitions, validation results, and unresolved data questions.
+
 ## Tools
 
 Tableau · Calculated fields · Table calculations · Interactive dashboards · Data validation
