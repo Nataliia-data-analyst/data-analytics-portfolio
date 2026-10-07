@@ -30,6 +30,14 @@ Cohorts will be defined at customer level using `user_id`, across all products. 
 
 Source validation and filter behavior will be documented before interpreting the results.
 
+## Interactive Dashboard
+
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/app/profile/nataliia.fofanova/viz/5_RevenueGrowthCohortAnalysis/RevenueGrowthCohortOverview)
+
+Use Location to filter all three views.
+
+Payment Date controls the monthly charts. First Payment Month selects cohorts while preserving their observed revenue history and month-zero baseline.
+
 ## Dashboard Overview
 
 ![Revenue Growth & Cohort Analysis](assets/dashboard-overview.png)
