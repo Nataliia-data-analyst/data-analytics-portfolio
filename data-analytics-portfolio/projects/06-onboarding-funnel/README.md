@@ -23,6 +23,8 @@ The dashboard includes:
 
 ## Data and Scope
 
+[View the source CSV →](data/onboarding_funnel_product.csv)
+
 The supplied educational CSV contains 25,018 event records for 8,460 unique users.
 
 Fields: `user_id`, `event`, `event_timestamp`.
