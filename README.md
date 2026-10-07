@@ -2,7 +2,7 @@
 
 Turning coursework into business-focused analytical projects.
 
-This portfolio brings together my GoIT Data Analytics homework and final capstone project. Each assignment is developed into a mini case study with a business question, clear visualizations, validated findings, and practical recommendations.
+This portfolio brings together my GoIT Data Analytics homework and final capstone project. Each assignment is developed into a mini case study with a business question, clear visualizations, documented checks, findings, practical recommendations, and limitations.
 
 ## Projects
 
@@ -13,7 +13,7 @@ This portfolio brings together my GoIT Data Analytics homework and final capston
 | [Player Engagement & Battle Pass Participation](data-analytics-portfolio/projects/03-player-engagement/README.md) | Player activity, Battle Pass participation, and playtime patterns | Tableau |
 | [Superstore Order Fulfillment Analysis](data-analytics-portfolio/projects/04-superstore-order-fulfillment/README.md) | Order-to-shipment timing, shipping modes, and US state comparisons | Tableau |
 | [Revenue Growth & Cohort Analysis](data-analytics-portfolio/projects/05-revenue-growth-cohorts/README.md) | Monthly revenue growth, first-payment-month revenue, and payment cohort analysis | Tableau |
-| [Onboarding Funnel & Conversion Analysis](projects/06-onboarding-funnel/README.md) | How does onboarding conversion vary by registration month, and how long do users take to reach each milestone? | Tableau | Dashboard published; source CSV, methodology and parameter action included |
+| [Onboarding Funnel & Conversion Analysis](data-analytics-portfolio/projects/06-onboarding-funnel/README.md) | Onboarding progression, registration-to-trial conversion, and time to selected milestones | Tableau |
 
 ## Featured Project: Revenue Performance Analysis
 
