@@ -12,15 +12,15 @@ How long does it take to ship an order, and how does that interval vary across s
 
 ## Project Overview
 
-This case study explores the interval between order placement and shipment using the Tableau Sample Superstore dataset.
+This case study explores the interval between order placement and shipment using Tableau Sample Superstore data.
 
-Three views will show:
+The dashboard combines three views:
 
 - Average days to shipment by shipping mode.
 - Distinct order counts by days to shipment.
 - Average days to shipment across US states.
 
-The dashboard will include order date, customer segment and shipping mode filters.
+Order date, customer segment and shipping mode filters apply to all three views.
 
 ## Interactive Dashboard
 
@@ -121,14 +121,6 @@ Each row represents an order line. Orders can contain multiple product lines, so
 
 Ship Date records shipment, not confirmed customer delivery. The dataset therefore supports analysis of time to shipment, not transit time or end-to-end delivery time.
 
-## Planned Deliverables
-
-- Interactive Tableau Public dashboard.
-- Dashboard screenshot.
-- Metric definitions and validation notes.
-- Findings and business recommendations.
-- Documentation of development decisions.
-
 ## Methodology
 
 [Metric definitions and limitations →](docs/methodology.md)
@@ -141,4 +133,8 @@ Tableau · Calculated fields · Order-level aggregation · Geographic analysis �
 
 ## Project Status
 
-Source file reviewed. Dashboard development and order-level metric validation are next.
+The dashboard is published on Tableau Public. The original source file, dashboard screenshot and methodology are included.
+
+US order-level calculations confirm 5,009 distinct orders and the reported shipping-mode averages.
+
+Promised shipment dates and customer delivery records are unavailable. Service-level compliance and actual delivery performance remain outside the scope of this analysis.
