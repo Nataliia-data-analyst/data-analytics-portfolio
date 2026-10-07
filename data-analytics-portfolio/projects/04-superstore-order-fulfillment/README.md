@@ -68,13 +68,40 @@ Those differences should be investigated within comparable shipping modes and wi
 
 The dashboard helps operations teams decide where to investigate. Promised shipment dates and customer delivery records are needed to assess lateness and delivery performance.
 
-## Business Applications
+## Business Applications and Recommendations
 
-Operations teams can use the dashboard to identify differences in order processing and prioritize further investigation.
+### Operations: compare like with like
 
-Customer experience teams can use the findings to review expectations around dispatch timing.
+Compare shipment intervals within the same shipping mode, customer segment and order period.
 
-Comparisons describe observed patterns. They do not establish the causes of delays or whether service commitments were met.
+Investigate states with longer intervals only after reviewing their order counts and shipping-mode mix. This helps distinguish differences in order composition from potential processing issues.
+
+### Customer Experience: separate dispatch from delivery
+
+Use order-to-shipment patterns to review how dispatch expectations are communicated.
+
+Add promised shipment dates and actual customer delivery dates before measuring late shipments or end-to-end delivery performance.
+
+### Analytics: examine variation behind the average
+
+Extend the analysis with median and 90th-percentile days to shipment. These measures can show whether a small group of slower orders is hidden by the average.
+
+Track results over time within each shipping mode to identify changes worth investigating.
+
+### Marketing: validate service promises
+
+Use verified fulfillment data when reviewing shipping-related campaign messages.
+
+Claims about delivery speed require customer delivery records. Shipment timing alone does not support a promise that customers will receive an order within a given number of days.
+
+## Recommended Next Steps
+
+| Priority | Action | Purpose |
+|---|---|---|
+| 1 | Add promised shipment and actual delivery dates | Measure service performance against defined commitments |
+| 2 | Compare states within each shipping mode | Reduce the influence of shipping-mode mix |
+| 3 | Add median, 90th percentile and order counts | Reveal variation and provide sample-size context |
+| 4 | Investigate changes using warehouse and inventory records | Test operational explanations |
 
 ## Data and Scope
 
