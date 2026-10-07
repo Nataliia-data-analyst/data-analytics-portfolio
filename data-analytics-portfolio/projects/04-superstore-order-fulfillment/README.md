@@ -36,6 +36,38 @@ The dashboard measures calendar days from order placement to shipment. It does n
 
 Full-period view of US orders, with all customer segments and shipping modes selected.
 
+## Key Findings
+
+Full-period results for US orders, with all segments and shipping modes selected.
+
+- The analysis includes **5,009 distinct orders**.
+- Average time from order placement to shipment is **4.0 calendar days**.
+- **Standard Class** averages **5.0 days**, compared with **3.2 days** for Second Class and **2.2 days** for First Class.
+- **Four days** is the most common shipment interval, covering **1,401 orders**.
+- **49.7% of orders** shipped four or five calendar days after placement.
+
+Same Day averages less than 0.1 days and rounds to 0.0 at one decimal place. This does not mean every order in that category shipped on its placement date.
+
+## The Story Behind the Dashboard
+
+### Start with the distribution
+
+The average is approximately four days, but the distribution shows how individual orders differ. Almost half shipped after four or five days, while other orders ranged from same-date shipment to seven days.
+
+### Add shipping-mode context
+
+Standard Class represents 2,994 of the 5,009 orders and has the longest average interval.
+
+Its large share helps explain the overall pattern. Comparing shipping modes provides context before interpreting longer intervals as operational problems.
+
+### Use geography to ask a more precise question
+
+The state map highlights differences in average time to shipment.
+
+Those differences should be investigated within comparable shipping modes and with order counts visible. A darker state is a starting point for analysis, not evidence of a service failure.
+
+The dashboard helps operations teams decide where to investigate. Promised shipment dates and customer delivery records are needed to assess lateness and delivery performance.
+
 ## Business Applications
 
 Operations teams can use the dashboard to identify differences in order processing and prioritize further investigation.
