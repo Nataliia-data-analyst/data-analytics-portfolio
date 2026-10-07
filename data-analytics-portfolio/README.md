@@ -13,7 +13,7 @@ Each project explains the business problem, data, methods, findings, practical a
 | [Revenue Performance Analysis](projects/01-revenue-performance/README.md) | How did revenue change over time, and which markets should the team investigate after the March peak? | Tableau | Dashboard published; source CSV included; basic validation completed |
 | [Revenue Drivers & Paying Customer Analysis](projects/02-revenue-drivers/README.md) | How do paying-customer count, ARPPU, products, and markets shape revenue? | Tableau | Dashboard published; methodology and limitations documented |
 | [Player Engagement & Battle Pass Participation](projects/03-player-engagement/README.md) | How do audience size, Battle Pass participation, and average playtime change over time? | Tableau | Dashboard published; source CSV and methodology included |
-
+| [Superstore Order Fulfillment Analysis](data-analytics-portfolio/projects/04-superstore-order-fulfillment/README.md) | Order-to-shipment timing, shipping modes, and US state comparisons | Tableau |
 
 ## Portfolio Structure
 
