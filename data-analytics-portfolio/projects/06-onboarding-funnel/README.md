@@ -97,10 +97,18 @@ Monthly comparisons use recorded outcomes without a fixed conversion window. Fol
 
 Missing milestone events do not establish permanent abandonment or churn.
 
+## Methodology
+
+[Metric definitions, Tableau calculations and parameter action →](docs/methodology.md)
+
+Documentation of registration-date LOD logic, conversion denominators, funnel construction, elapsed-time calculations and interpretation limits.
+
 ## Tools and Skills
 
 Tableau · LOD Expressions · COUNTD · Conversion Analysis · Gantt Funnel · Parameters · Parameter Actions
 
 ## Project Status
 
-Dashboard published. Initial source checks completed. Supporting data, screenshot and detailed methodology are being added.
+Dashboard published. Source CSV, dashboard preview, findings and methodology included.
+
+Initial data checks completed. Event-order validation and conversion-window analysis are proposed as further work.
