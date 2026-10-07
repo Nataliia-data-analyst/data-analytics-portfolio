@@ -77,6 +77,12 @@ Marketing teams can investigate acquisition cohorts further when campaign attrib
 - Keep cohort month-zero comparisons consistent.
 - Distinguish incomplete observation periods from zero revenue.
 
+## Methodology
+
+[Metric definitions, cohort calculations and filter behavior →](docs/methodology.md)
+
+Documentation of first-payment LOD expressions, month-over-month table calculations, cohort revenue ratios and interpretation limits.
+
 ## Tools and Skills
 
 Tableau · LOD Expressions · Table Calculations · Cohort Analysis · Revenue Analysis
