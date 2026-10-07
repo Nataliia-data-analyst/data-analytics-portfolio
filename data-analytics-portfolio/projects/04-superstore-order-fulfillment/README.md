@@ -30,6 +30,12 @@ Use the order date, customer segment and shipping mode filters to explore all th
 
 The dashboard measures calendar days from order placement to shipment. It does not measure delivery time to the customer.
 
+## Dashboard Overview
+
+![Superstore Order Fulfillment Analysis](assets/order-fulfillment-dashboard.png)
+
+Full-period view of US orders, with all customer segments and shipping modes selected.
+
 ## Business Applications
 
 Operations teams can use the dashboard to identify differences in order processing and prioritize further investigation.
