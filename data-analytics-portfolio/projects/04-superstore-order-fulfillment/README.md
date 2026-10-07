@@ -48,11 +48,13 @@ Comparisons describe observed patterns. They do not establish the causes of dela
 
 Source: Tableau Sample Superstore, supplied with the assignment.
 
-The analysis will use the Orders worksheet and focus on the United States. The supplied file also includes Canadian records.
+[Download the source Excel file →](data/superstore.xls)
 
-Each source row represents an order line. An order can contain multiple lines, so order counts must use distinct Order IDs.
+The workbook contains Orders, People and Returns worksheets. This analysis uses Orders and filters Country/Region to United States.
 
-Average time to shipment will give each order equal weight.
+The original file is preserved unchanged, including Canadian records. The US restriction is applied in Tableau.
+
+Each row represents an order line. Orders can contain multiple product lines, so order counts use distinct Order IDs and average days to shipment gives each order equal weight.
 
 ## Metric Definition
 
