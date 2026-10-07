@@ -18,7 +18,7 @@ This project extends the earlier revenue analysis with three views:
 - Monthly total revenue and month-over-month percentage change.
 - Cohort revenue by months since the first recorded payment.
 
-The dashboard will include location and date filters.
+The dashboard includes a Location filter for all three views, a Payment Date filter for the monthly charts, and a First Payment Month filter for the cohort table.
 
 ## Data and Scope
 
@@ -26,9 +26,9 @@ The dashboard will include location and date filters.
 
 The supplied dataset contains 123,195 rows with customer identifiers, payment dates, locations, products, enterprise-customer flags and revenue amounts.
 
-Cohorts will be defined at customer level using `user_id`, across all products. First payment means the first qualifying payment recorded in the supplied dataset.
+Cohorts are defined at customer level using `user_id`, across all products. First payment means the earliest positive payment recorded in the supplied dataset.
 
-Source validation and filter behavior will be documented before interpreting the results.
+Calculation logic, selected reference checks, filter behavior and interpretation limits are documented in the methodology.
 
 ## Interactive Dashboard
 
@@ -79,7 +79,7 @@ Marketing teams can investigate acquisition cohorts further when campaign attrib
 
 ## Key Findings and Business Implications
 
-### Revenue increased substantially over the observed period
+### Revenue rose from the first observed month to the March 2023 peak
 
 Recorded monthly revenue rose from 44,085 in June 2022 to 162,260 in March 2023 — approximately 3.68 times the initial value.
 
@@ -108,6 +108,8 @@ The June 2022 cohort may include customers who paid before the dataset began, so
 
 [Metric definitions, cohort calculations and filter behavior →](docs/methodology.md)
 
+[Tableau calculated fields and table calculation settings →](docs/tableau-calculations.md)
+
 Documentation of first-payment LOD expressions, month-over-month table calculations, cohort revenue ratios and interpretation limits.
 
 ## Tools and Skills
@@ -116,4 +118,6 @@ Tableau · LOD Expressions · Table Calculations · Cohort Analysis · Revenue A
 
 ## Project Status
 
-Project structure created. Source validation, dashboard development and findings are pending.
+Dashboard published. Source CSV, dashboard preview, findings, methodology and Tableau calculation reference included.
+
+Selected reference values were checked. Further analysis is proposed in Recommended Next Steps.
