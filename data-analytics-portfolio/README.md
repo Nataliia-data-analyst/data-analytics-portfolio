@@ -17,6 +17,8 @@ Each project explains the business problem, data, methods, findings, practical a
 
 ## Portfolio Structure
 
+| [Revenue Growth & Cohort Analysis](projects/05-revenue-growth-cohorts/README.md) | How do customers in their first recorded payment month and earlier payment cohorts contribute to monthly revenue? | Tableau | Dashboard published; source CSV, methodology, and Tableau calculations included |
+
 Each project has its own folder containing a README, supporting assets, data summaries where applicable, and documentation.
 
 Additional coursework and the final capstone will be added as their case studies are completed.
