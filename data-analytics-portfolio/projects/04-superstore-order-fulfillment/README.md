@@ -70,6 +70,12 @@ Ship Date records shipment, not confirmed customer delivery. The dataset therefo
 - Findings and business recommendations.
 - Documentation of development decisions.
 
+## Methodology
+
+[Metric definitions and limitations →](docs/methodology.md)
+
+How shipment intervals and distinct order counts are calculated, why order-level aggregation matters, and what the dashboard can explain.
+
 ## Tools and Skills
 
 Tableau · Calculated fields · Order-level aggregation · Geographic analysis · Visual storytelling
