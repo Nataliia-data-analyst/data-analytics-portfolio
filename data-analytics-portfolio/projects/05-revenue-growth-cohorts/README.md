@@ -20,6 +20,16 @@ This project extends the earlier revenue analysis with three views:
 
 The dashboard will include location and date filters.
 
+## Data and Scope
+
+[View the source CSV →](data/saas_revenue.csv)
+
+The supplied dataset contains 123,195 rows with customer identifiers, payment dates, locations, products, enterprise-customer flags and revenue amounts.
+
+Cohorts will be defined at customer level using `user_id`, across all products. First payment means the first qualifying payment recorded in the supplied dataset.
+
+Source validation and filter behavior will be documented before interpreting the results.
+
 ## Metric Naming
 
 The assignment calls first-payment-month revenue “New MRR.”
