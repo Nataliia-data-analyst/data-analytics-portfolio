@@ -14,6 +14,7 @@ Each project explains the business problem, data, methods, findings, practical a
 | [Revenue Drivers & Paying Customer Analysis](projects/02-revenue-drivers/README.md) | How do paying-customer count, ARPPU, products, and markets shape revenue? | Tableau | Dashboard published; methodology and limitations documented |
 | [Player Engagement & Battle Pass Participation](projects/03-player-engagement/README.md) | How do audience size, Battle Pass participation, and average playtime change over time? | Tableau | Dashboard published; source CSV and methodology included |
 | [Superstore Order Fulfillment Analysis](projects/04-superstore-order-fulfillment/README.md) | How does time to shipment vary by shipping mode and US state? | Tableau | Dashboard published; source file and methodology included |
+| [Onboarding Funnel & Conversion Analysis](projects/06-onboarding-funnel/README.md) | How does onboarding conversion vary by registration month, and how long do users take to reach each milestone? | Tableau | Dashboard published; source CSV, methodology and parameter action included |
 
 ## Portfolio Structure
 
