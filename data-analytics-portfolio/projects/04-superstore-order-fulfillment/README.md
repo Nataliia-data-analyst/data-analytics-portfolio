@@ -22,6 +22,14 @@ Three views will show:
 
 The dashboard will include order date, customer segment and shipping mode filters.
 
+## Interactive Dashboard
+
+[Explore the dashboard on Tableau Public →](https://public.tableau.com/views/4_SuperstoreOrderFulfillmentAnalysis/OrderFulfillmentOverview)
+
+Use the order date, customer segment and shipping mode filters to explore all three views.
+
+The dashboard measures calendar days from order placement to shipment. It does not measure delivery time to the customer.
+
 ## Business Applications
 
 Operations teams can use the dashboard to identify differences in order processing and prioritize further investigation.
