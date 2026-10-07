@@ -4,6 +4,8 @@
 
 [View the source CSV](../data/saas_revenue.csv)
 
+[Tableau calculated fields and table calculation settings →](docs/tableau-calculations.md)
+
 The analysis groups customers by `user_id` across all products.
 
 First payment means the earliest positive payment recorded in the supplied dataset. Earlier customer history is unavailable.
