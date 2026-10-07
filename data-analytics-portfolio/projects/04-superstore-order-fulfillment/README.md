@@ -125,6 +125,8 @@ Ship Date records shipment, not confirmed customer delivery. The dataset therefo
 
 [Metric definitions and limitations →](docs/methodology.md)
 
+[Project development and analytical decisions →](docs/project-development.md)
+
 How shipment intervals and distinct order counts are calculated, why order-level aggregation matters, and what the dashboard can explain.
 
 ## Tools and Skills
