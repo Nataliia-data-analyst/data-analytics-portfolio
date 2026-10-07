@@ -41,6 +41,14 @@ Monthly views group events by each user's registration month, rather than the mo
 
 Select a funnel bar to change the milestone shown in the time chart, or use the Selected Step parameter.
 
+## Dashboard Overview
+
+![Onboarding Funnel & Conversion Analysis](assets/dashboard-overview.png)
+
+Full-dataset view with first-payment selected for the average-time chart.
+
+Funnel percentages are relative to registration. Average elapsed time includes only users who reached the selected milestone.
+
 ## Metric Definitions
 
 - Registered Users: distinct users with a registration event.
