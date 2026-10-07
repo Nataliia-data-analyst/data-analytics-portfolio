@@ -30,6 +30,14 @@ Cohorts will be defined at customer level using `user_id`, across all products. 
 
 Source validation and filter behavior will be documented before interpreting the results.
 
+## Dashboard Overview
+
+![Revenue Growth & Cohort Analysis](assets/dashboard-overview.png)
+
+Full-period view for June 2022–May 2023, with all locations and cohorts selected.
+
+Payment Date filters the monthly charts. First Payment Month selects cohort rows while preserving their month-zero baseline.
+
 ## Metric Naming
 
 The assignment calls first-payment-month revenue “New MRR.”
