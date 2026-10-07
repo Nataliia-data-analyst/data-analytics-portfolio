@@ -12,6 +12,7 @@ This portfolio brings together my GoIT Data Analytics homework and final capston
 | [Revenue Drivers & Paying Customer Analysis](data-analytics-portfolio/projects/02-revenue-drivers/README.md) | Paying users, ARPPU, product–market revenue, and regional revenue mix | Tableau |
 | [Player Engagement & Battle Pass Participation](data-analytics-portfolio/projects/03-player-engagement/README.md) | Player activity, Battle Pass participation, and playtime patterns | Tableau |
 | [Superstore Order Fulfillment Analysis](data-analytics-portfolio/projects/04-superstore-order-fulfillment/README.md) | Order-to-shipment timing, shipping modes, and US state comparisons | Tableau |
+| [Revenue Growth & Cohort Analysis](data-analytics-portfolio/projects/05-revenue-growth-cohorts/README.md) | Monthly revenue growth, first-payment-month revenue, and payment cohort analysis | Tableau |
 
 ## Featured Project: Revenue Performance Analysis
 
