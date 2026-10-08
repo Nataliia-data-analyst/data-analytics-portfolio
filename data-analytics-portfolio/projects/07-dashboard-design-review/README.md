@@ -25,8 +25,8 @@ The five-second principle is a design goal. No timed user study has been conduct
 
 | Dashboard | Main questions | Link |
 |---|---|---|
-| Onboarding Funnel & Conversion Overview | How many users registered, started a trial and paid? What share reached each step? How long did reaching a selected step take? | [Explore on Tableau Public](https://public.tableau.com/app/profile/nataliia.fofanova/viz/6_OnboardingFunnelConversionAnalysis/OnboardingFunnelConversionOverview) |
-| Revenue Growth & Cohort Overview | What is total revenue for the selected payment period? How does monthly revenue change? How much comes from newly paying customers? How does cohort revenue develop? | [Explore on Tableau Public](https://public.tableau.com/app/profile/nataliia.fofanova/viz/5_RevenueGrowthCohortAnalysis/RevenueGrowthCohortOverview) |
+| Onboarding Funnel & Conversion Overview | How many users registered, started a trial and paid? What share reached each step? How long did reaching a selected step take? | [Explore on Tableau Public](https://public.tableau.com/app/profile/nataliia.fofanova/viz/DashboardDesignUsabilityReview/OnboardingFunnelConversionOverview) |
+| Revenue Growth & Cohort Overview | What is total revenue for the selected payment period? How does monthly revenue change? How much comes from newly paying customers? How does cohort revenue develop? | [Explore on Tableau Public](https://public.tableau.com/app/profile/nataliia.fofanova/viz/DashboardDesignUsabilityReviewRevenueGrowthCohortAnalysis/RevenueGrowthCohortOverview) |
 
 ## Design Changes
 
