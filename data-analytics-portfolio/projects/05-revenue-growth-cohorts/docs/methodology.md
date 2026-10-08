@@ -2,9 +2,9 @@
 
 ## Source and Scope
 
-[View the source CSV →](data/saas_revenue.csv)
+[View the source CSV →](https://github.com/Nataliia-data-analyst/data-analytics-portfolio/blob/main/data-analytics-portfolio/projects/05-revenue-growth-cohorts/data/saas_revenue.csv)
 
-[Tableau calculated fields and table calculation settings →](docs/tableau-calculations.md)
+[Tableau calculated fields and table calculation settings →](https://github.com/Nataliia-data-analyst/data-analytics-portfolio/blob/main/data-analytics-portfolio/projects/05-revenue-growth-cohorts/docs/tableau-calculations.md)
 
 The analysis groups customers by `user_id` across all products.
 
