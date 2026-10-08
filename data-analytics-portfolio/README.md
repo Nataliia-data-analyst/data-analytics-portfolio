@@ -16,7 +16,7 @@ Each project explains the business problem, data, methods, findings, practical a
 | [Superstore Order Fulfillment Analysis](projects/04-superstore-order-fulfillment/README.md) | How does time to shipment vary by shipping mode and US state? | Tableau | Dashboard published; source file and methodology included |
 | [Revenue Growth & Cohort Analysis](projects/05-revenue-growth-cohorts/README.md) | How do customers in their first recorded payment month and earlier payment cohorts contribute to monthly revenue? | Tableau | Dashboard published; source CSV, methodology, and Tableau calculations included |
 | [Onboarding Funnel & Conversion Analysis](projects/06-onboarding-funnel/README.md) | How does onboarding conversion vary by registration month, and how long do users take to reach each milestone? | Tableau | Dashboard published; source CSV, methodology and parameter action included |
-| [Netflix Onboarding & Early Engagement Tracking Plan](data-analytics-portfolio/projects/08-netflix-tracking-plan/README.md) | Registration and payment conversion, profile onboarding, event design, and early engagement metrics | Google Sheets |
+| [Netflix Onboarding & Early Engagement Tracking Plan](projects/08-netflix-tracking-plan/README.md) | Where do new accounts drop off before payment, and how do new profiles progress toward first viewing and repeated use? | Google Sheets | Tracking plan completed; 19 proposed events and 10 metrics documented; implementation pending |
 
 ## Portfolio Structure
 
