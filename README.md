@@ -14,6 +14,7 @@ This portfolio brings together my GoIT Data Analytics homework and final capston
 | [Superstore Order Fulfillment Analysis](data-analytics-portfolio/projects/04-superstore-order-fulfillment/README.md) | Order-to-shipment timing, shipping modes, and US state comparisons | Tableau |
 | [Revenue Growth & Cohort Analysis](data-analytics-portfolio/projects/05-revenue-growth-cohorts/README.md) | Monthly revenue growth, first-payment-month revenue, and payment cohort analysis | Tableau |
 | [Onboarding Funnel & Conversion Analysis](data-analytics-portfolio/projects/06-onboarding-funnel/README.md) | Onboarding progression, registration-to-trial conversion, and time to selected milestones | Tableau |
+| [Dashboard Design & Usability Review](data-analytics-portfolio/projects/07-dashboard-design-review/README.md) | Visual hierarchy, KPI placement, metric clarity, and before-and-after review of two dashboards | Tableau |
 
 ## Featured Project: Revenue Performance Analysis
 
