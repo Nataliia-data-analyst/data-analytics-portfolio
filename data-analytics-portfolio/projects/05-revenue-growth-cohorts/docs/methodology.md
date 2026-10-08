@@ -2,9 +2,9 @@
 
 ## Source and Scope
 
-[View the source CSV →](data/saas_revenue.csv)
+![View the source CSV →](data/saas_revenue.csv)
 
-[Tableau calculated fields and table calculation settings →](docs/tableau-calculations.md)
+![Tableau calculated fields and table calculation settings →](docs/tableau-calculations.md)
 
 The analysis groups customers by `user_id` across all products.
 
