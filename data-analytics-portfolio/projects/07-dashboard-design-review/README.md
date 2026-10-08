@@ -94,4 +94,4 @@ This review uses the educational datasets and analytical definitions documented 
 
 ## Tools and Skills
 
-Tableau · Dashboard Design · Visual Hierarchy · Metric Communication · Data Storytelling
+Tableau · Dashboard Design · Visual Hierarchy · Metric Communication · Data Storytelling · 
