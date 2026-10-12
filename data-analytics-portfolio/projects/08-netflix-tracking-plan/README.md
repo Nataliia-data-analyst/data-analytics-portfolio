@@ -7,7 +7,7 @@ Designing a measurement framework for registration, membership setup, profile on
 **Tools:** Google Sheets  
 **Research context:** Netflix Poland, English-language web interface, 8 October 2026
 
-[Explore the tracking plan →](https://docs.google.com/spreadsheets/d/13avxyeE0wFl63EAd3As_6D8-Y2jwjMuVUbqDfyFQIgc/edit?usp=sharing)
+[Explore the tracking plan →](https://docs.google.com/spreadsheets/d/1777ALCwEb1JuvAbI6YMUl5BdGyyB_994ZjU6GNhauXw/edit?usp=sharing)
 
 ## Business Question
 
